@@ -53,7 +53,7 @@ export const Hero = () => {
       <div className={styles.copyWrapper}>
         <Reveal>
           <h1 className={styles.title}>
-            <span ref={h1Ref}></span>
+            <span ref={h1Ref}>&ldquo;&rdquo;</span>
             <span>.</span>
           </h1>
         </Reveal>
@@ -65,7 +65,7 @@ export const Hero = () => {
         <Reveal>
           <p className={styles.aboutCopy}>
             Riding the Waves of Design & Events for 5 years! Passionate about crafting exceptional brands and helping companies thrive. Sharing my adventurous nature, helping people to make a splash. 
-            Let's connect  🤝
+            Let&apos;s connect  🤝
           </p>
         </Reveal>
         <Reveal>

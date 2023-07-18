@@ -41,13 +41,13 @@ const projects = [
         Sign up and Receive Exclusive Tips and Tricks from Fitter Together
         </p>
         <p>
-        gain access to our exclusive free resource that will supercharge your progress. Whether you're looking to build muscle, burn fat, or find the motivation you've been missing, our expert trainers and coaches have you covered. Don't miss out on this opportunity to transform your life!
+        gain access to our exclusive free resource that will supercharge your progress. Whether you&apos;re looking to build muscle, burn fat, or find the motivation you&apos;ve been missing, our expert trainers and coaches have you covered. Don&apos;t miss out on this opportunity to transform your life!
         </p>
       </>
     ),
   },
   {
-    title: "Clear Correct",
+    title: "ClearCorrect",
     imgSrc: "project-imgs/Clearcorrect.png",
     code: "https://www.github.com",
     projectLink: "https://www.instagram.com/reel/Ct83Vu5gILM/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==",
