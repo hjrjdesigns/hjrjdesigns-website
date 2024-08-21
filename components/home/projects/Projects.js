@@ -19,10 +19,10 @@ export const Projects = () => {
 const projects = [
   {
     title: "Fitter Together",
-    imgSrc: "project-imgs/ehpt.png",
+    imgSrc: "public/project-imgs/Fitter Together Website social image.png",
     code: "https://framer.com/projects/fitter-together--xWQzjYCDIBJ1hOAItsuo-7pz70",
-    projectLink: "https://fitter-together.bubbleapps.io/version-test/sign-up-auth",
-    tech: ["Figma", "Bubble.", "OpenAI", "API"],
+    projectLink: "https://www.fittertogether.co/",
+    tech: ["Framer", "Bubble.", "OpenAI", "API"],
     description:
       "A real-time coaching app for clients wanting personalised Fitness Plans and other training tools. This app is designed and built on my own.",
     modalContent: (
